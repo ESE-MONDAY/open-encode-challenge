@@ -11,6 +11,8 @@ Add your information to the below list to officially participate in the workshop
 | Emoji | Name | Github Username                       | Occupations |
 | ----- | ---- | ------------------------------------- | ----------- |
 | 🎅    | Ippo | [NTP-996](https://github.com/NTP-996) | DevRel      |
+| 😜    | Ese Monday | [ESE-MONDAY](https://github.com/ESE-MONDAY) | DevRel at ETHNIGERIA      |
+
 
 ## 💻 Local development environment setup
 
